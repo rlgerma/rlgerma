@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="863" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="852" class="">
     <defs>
         <style/>
     </defs>
@@ -1304,27 +1304,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Vue.js</span>
-                                <div class="bar" style="width: 47.28%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">59%</span>
+                                <div class="bar" style="width: 65.07999999999998%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">81%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 16.048000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Other</span>
-                                <div class="bar" style="width: 11.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 10.280000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 4.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.4559999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 0.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Other</span>
+                                <div class="bar" style="width: 0.17600000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1333,7 +1328,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2022, 00:19:19 (timezone America/Denver) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 21 Apr 2022, 01:14:27 (timezone America/Denver) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
