@@ -23,7 +23,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_days: 14
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: languages, languages-graphs, editors, editors-graphs, os, os-graphs
+          plugin_wakatime_sections: languages, languages-graphs, editors, os, os-graphs
           plugin_wakatime_languages_other: yes
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
