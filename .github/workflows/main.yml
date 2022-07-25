@@ -21,7 +21,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_wakatime: yes
-          plugin_wakatime_days: 30
+          plugin_wakatime_days: 14
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: languages, languages-graphs, editors, editors-graphs, os, os-graphs
           plugin_wakatime_languages_other: yes
